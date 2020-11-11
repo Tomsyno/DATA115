@@ -2,3 +2,5 @@
 DATA Analytics 115 repository
 
 The following is a boxplot of 4 different varity of spinach showing disease progression over 14 days. The different varity of spinach are compared to each other at 4 days after inoculation/pressence of pathogen (DAI), 9 DAI, and 14 DAI. The graph show that disease progression and servity is different over the four cultivars of spinach. 
+
+![Percent Infected Leaf Are](https://raw.githubusercontent.com/Tomsyno/DATA115/master/Boxplot_Spinach_Path_Test_Cercospora_chenopodii_2019.png)
