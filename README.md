@@ -7,7 +7,7 @@ Pathogen attack on crops in the world has always been a big issue causing as hig
 
 Data: The data contains data in columns the corresponding data: replication number, plot number in each replication, unique number code, host (plant cultivar), the isolate number to the pathogen, 4 DAI (DAY AFTER INOCULATION), 9DAI, 14DAI. 
 
-Data Cleaning:  The Data in excel consisted of the four spinach cultivar data, and 4 beet cultivars data. I removed data from the beet cultivar because no indication of disease was reported on the beet cultivars. The Host cultivars used to compare where put into their own data frame to separate cultivars that showed disease and ones that did not. The four cultivars of spinach used were Viroflay, SV2157VB, Mandolin, and Unipack-151.
+Data Cleaning:  The Data in excel consisted of the four spinach cultivar data, and 4 beet cultivars data. I used Jupyter books, and perl to removed data from the beet cultivar because no indication of disease was reported on the beet cultivars. The Host cultivars used to compare where put into their own data frame to separate cultivars that showed disease and ones that did not. The four cultivars of spinach used were Viroflay, SV2157VB, Mandolin, and Unipack-151.
 
 
 
