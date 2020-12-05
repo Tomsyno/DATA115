@@ -16,7 +16,7 @@ Analysis: Using Python I was able to use exploratory data analysis described in 
 The following is a boxplot of 4 different variety of spinach showing disease progression over 14 days. The different variety of spinach are compared to each other at 4 days after inoculation/presence of pathogen (DAI), 9 DAI, and 14 DAI. The graph show that disease progression and severity is different over the four cultivars of spinach. 
 
 
-![Percent Infected Leaf Are](HISTOGRAM_ALLSPINACH_FIXXED NAMES.PNG (679×650) (raw.githubusercontent.com))
+![Percent Infected Leaf Are](https://raw.githubusercontent.com/Tomsyno/DATA115/master/HISTOGRAM_ALLSPINACH_FIXXED%20NAMES.PNG)
 
 The following image is a histogram showing the range of infection for each cultivar, 14 days after infection.
 
