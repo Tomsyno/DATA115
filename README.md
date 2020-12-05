@@ -21,7 +21,7 @@ The following is a boxplot of 4 different variety of spinach showing disease pro
 The following image is a histogram showing the range of infection for each cultivar, 14 days after infection.
 
 
-![Histogram 14 DAI](Histograms_All_4_Spinach_14DAI.PNG (834×527) (raw.githubusercontent.com))
+![Histogram 14 DAI](https://raw.githubusercontent.com/Tomsyno/DATA115/master/Histograms_All_4_Spinach_14DAI.PNG)
 
 
 This image is a close up of Unipack-151 since it tolerated the disease the best.  This histogram clearly shows most plants having 0-2% leaf area infected. That is typically one or two spots on the plant. The highest area infected was 10% of the plant leaf area and was recorded on only one plant of this cultivar. 
