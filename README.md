@@ -27,7 +27,7 @@ The following image is a histogram showing the range of infection for each culti
 This image is a close up of Unipack-151 since it tolerated the disease the best.  This histogram clearly shows most plants having 0-2% leaf area infected. That is typically one or two spots on the plant. The highest area infected was 10% of the plant leaf area and was recorded on only one plant of this cultivar. 
 
 
-![Unipack-151 Histogram]( Unipack_151_Histogram_14DAI.PNG (781×497) (raw.githubusercontent.com))
+![Unipack-151 Histogram](https://raw.githubusercontent.com/Tomsyno/DATA115/master/Unipack_151_Histogram_14DAI.PNG)
 
 
 Conclusion: The initial goal of this experiment was to classify this pathogen and prove that it could cause disease on spinach. The data that was generated from this experiment has allowed for other analysis. This analysis of the data has allowed us to determine which cultivar is best suited in New Jersey. Two of the cultivars Unipack-151, and SV2157VB are grown in New Jersey and where the initial crops infected. Both can be infected with SV2157VB being the most severe and Unipack-151 being the least severe. This is also backed up with field data of the Unipack-151 field not showing infection but the other was destroyed. Based off representation of the data Unipack-151 serves as a better spinach cultivar of the two, to be grown. Unipack-151  
