@@ -6,7 +6,7 @@ Disease can have a huge impact on crops around the world, upwards to 40% crop de
 	A pathogenicity test was conducted that rated infected plant leaf area over three different time intervals. Disease ratings where taken on four different cultivars of spinach. The beets in the experiment did not contract the disease. With this data I was able to show which cultivar tolerated the disease best.
 
 
-DATA: The Data was uploaded to Excel and then converted into a .CSV and uploaded to this repository. The data contains columns of the corresponding data: replication number, plot number in each replication, unique number code, host (plant cultivar), the isolate number to the pathogen, 4 DAI (DAY AFTER INOCULATION), 9DAI, 14DAI. 
+DATA: The Data was uploaded to Excel and then converted into a .CSV and uploaded to this repository. The data contains columns of the corresponding data: replication number, plot number in each replication, unique number code, host (plant cultivar), the isolate number to the pathogen, 4 DAI (DAY AFTER INOCULATION), 9DAI, 14DAI.
 
 Data Cleaning:  The Data in excel consisted of the four spinach cultivar data, and 4 beet cultivars data. I used Jupyter books, and perl to removed data from the beet cultivar because no indication of disease was reported on the beet cultivars. The Host cultivars used to compare where put into their own data frame to separate cultivars that showed disease and ones that did not. The four cultivars of spinach used were Viroflay, SV2157VB, Mandolin, and Unipack-151. I did not consider of the different reps or block groups because of the small amount of data. The data consisted of multiple isolates which were identified later to all be the same strain. This allows all treatments to be viewed as the same. 
 
